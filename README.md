@@ -3,8 +3,6 @@
 ## Team “Millennium”
 Eclipse-SDV-Hackathon-Accenture, 2023
 
-Origin Repo : https://github.com/Eclipse-SDV-Hackathon-Accenture/Millennium_FleetManagement
-
 Team Leader: Minchan Jung
 
 Team Members: Dahyun Ko, Hokyung Park, Junho Kim, Sujong Ha
